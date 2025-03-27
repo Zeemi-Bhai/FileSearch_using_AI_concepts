@@ -73,9 +73,5 @@ Contributions are welcome! Fork the repository and submit a pull request.
 
 ---
 
-### `requirements.txt`
-```
-matplotlib
-networkx
-```
+
 
